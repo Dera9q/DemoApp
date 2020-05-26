@@ -3,7 +3,7 @@ on:
     branches:
       - master
 
-name: Package and deploy simple web app
+name: Deploy App
 
 jobs:
   build-and-deploy:
